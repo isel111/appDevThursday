@@ -1,69 +1,125 @@
-public class week5 {
-    public static void main(String[] args) {
-        System.out.println("Collaborative Java Project\n");
+public class Cequena {
+    public static void display() {
+        int age = 29;
+        System.out.println("Hello! This is Cequena contributing to the project.");
+        System.out.println("My current age is: " + age);
+        System.out.println("Next year, I will be: " + (age + 1));
+    }
 
-        // Call each student's method
 
-
-        Sonajo.display();//lastname.display(); // Add your method call here
-
-
+        Lopez.display(); // Add your method call here
 
         //lastname.display(); // Add your method call here
+
+
+	Oliveros.display();
+      Rodrigo.display();
+      Sonajo.display();
+      Torres.display();
+      Gollena.display(); 
+	DeGuzman.display();
+      ClarkKurt.display(); 
+      Hernandez.display(); 
+      Policarpio.display();
+      Smith.display();
+      Dela Torre.display(); 
+      Sonajo.display();
+      estonilo.display();
+      ClarkKurt.display(); 
+      Hernandez.display(); 
+      Smith.display(); 
+      Sonajo.display();
+      Valdez.display();
+      Delbo.display();
+      Granado.display();
+      Pascua.display();
+      estonilo.display(); 
+      Piano.display();
+      Geringer.display();
+      Tejado.display();
+      Hernandez.display();
+      Alcantara.display();
+      Santander.display();
+	NMasagca.display();
+	ClarkKleine.display();
+
+        Rodrigo.display();
+        Oliveros.display();
+        Sonajo.display();
+        Bermejo.display();
         Torres.display();
-
-
-        Gollena.display(); // Add your method call here
-
-
-        DeGuzman.display(); // Add your method call here
-
-
-
-
-        ClarkKurt.display(); // Add your method call here
-
-
-        Hernandez.display(); // Add your method call here
+        Gollena.display(); 
+        DeGuzman.display();
+        ClarkKurt.display(); 
+        Hernandez.display(); 
         Policarpio.display();
-
-        Smith.display(); // Add your method call here
-
-        Sonajo.display();// lastname.display(); // Add your method call here
-
-         estonilo.display(); // Add your method call here
-
-
+        Smith.display();
+        DelaTorre.display(); 
+        Sonajo.display();
+        estonilo.display();
         ClarkKurt.display(); 
         Hernandez.display(); 
         Smith.display(); 
         Sonajo.display();
-
-
- 
-        Delbo.display()
-         Granado.display();
-
+        Valdez.display();
+        Delbo.display();
+        Granado.display();
         Pascua.display();
         estonilo.display(); 
-
         Piano.display();
+        Tejado.display();
+        Hernandez.display();
+        Alcantara.display();
+        Santander.display();
+
+	NMasagca.display();
+        Mocadiman.display();
+
+	    NMasagca.display();
+        Tuazon.display();
+
+
+	NMasagca.display();
+	Clapis.display();
+
+    
+
+
+
+
+
+		NMasagca.display();
+
+        Allosada.display();
+
+
+        Dolom.display();
+        
+
+
+        Gejos.display();
+        Dolom.display();
+
+
+        Gamoranao.display();
+
+        Bautista.display();
+
+        Miano.display();
+
+
 
         Geringer.display();
 
-        Hernandez.display();
-        Tejado.display();
+      JMasagca.display();
 
 
 
-
-
-        Hernandez.display();
-        Alcantara.display();
-
+        Larioza.display();
 
 
 
 
     }
 }
+
